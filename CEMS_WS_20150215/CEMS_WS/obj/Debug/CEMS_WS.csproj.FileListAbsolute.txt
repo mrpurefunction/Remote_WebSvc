@@ -1,0 +1,55 @@
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\CEMS_WS\CEMS_WS\bin\CEMS_WS.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\CEMS_WS\CEMS_WS\bin\CEMS_WS.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\CEMS_WS\CEMS_WS\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\CEMS_WS\CEMS_WS\obj\Debug\CEMS_WS.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\CEMS_WS\CEMS_WS\obj\Debug\CEMS_WS.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\CEMS_WS\CEMS_WS\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\CEMS_WS\CEMS_WS\bin\Microsoft.Practices.EnterpriseLibrary.Configuration.EnvironmentalOverrides.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\CEMS_WS\CEMS_WS\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\CEMS_WS\CEMS_WS\bin\Microsoft.Practices.Unity.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\CEMS_WS\CEMS_WS\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\CEMS_WS\CEMS_WS\bin\Microsoft.Practices.Unity.Interception.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\CEMS_WS\CEMS_WS\bin\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\CEMS_WS\CEMS_WS\bin\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\CEMS_WS\CEMS_WS\bin\Microsoft.Practices.EnterpriseLibrary.Configuration.EnvironmentalOverrides.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\CEMS_WS\CEMS_WS\bin\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\CEMS_WS\CEMS_WS\bin\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\CEMS_WS\CEMS_WS\bin\Microsoft.Practices.Unity.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\CEMS_WS\CEMS_WS\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\CEMS_WS\CEMS_WS\bin\Microsoft.Practices.Unity.Interception.pdb
+E:\Env_SQL_XLS\CEMS_WS\CEMS_WS\bin\CEMS_WS.dll
+E:\Env_SQL_XLS\CEMS_WS\CEMS_WS\bin\CEMS_WS.pdb
+E:\Env_SQL_XLS\CEMS_WS\CEMS_WS\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\Env_SQL_XLS\CEMS_WS\CEMS_WS\bin\Microsoft.Practices.EnterpriseLibrary.Configuration.EnvironmentalOverrides.dll
+E:\Env_SQL_XLS\CEMS_WS\CEMS_WS\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\Env_SQL_XLS\CEMS_WS\CEMS_WS\bin\Microsoft.Practices.Unity.dll
+E:\Env_SQL_XLS\CEMS_WS\CEMS_WS\bin\Microsoft.Practices.ServiceLocation.dll
+E:\Env_SQL_XLS\CEMS_WS\CEMS_WS\bin\Microsoft.Practices.Unity.Interception.dll
+E:\Env_SQL_XLS\CEMS_WS\CEMS_WS\bin\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+E:\Env_SQL_XLS\CEMS_WS\CEMS_WS\bin\Microsoft.Practices.EnterpriseLibrary.Common.xml
+E:\Env_SQL_XLS\CEMS_WS\CEMS_WS\bin\Microsoft.Practices.EnterpriseLibrary.Configuration.EnvironmentalOverrides.pdb
+E:\Env_SQL_XLS\CEMS_WS\CEMS_WS\bin\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+E:\Env_SQL_XLS\CEMS_WS\CEMS_WS\bin\Microsoft.Practices.EnterpriseLibrary.Data.xml
+E:\Env_SQL_XLS\CEMS_WS\CEMS_WS\bin\Microsoft.Practices.Unity.pdb
+E:\Env_SQL_XLS\CEMS_WS\CEMS_WS\bin\Microsoft.Practices.ServiceLocation.pdb
+E:\Env_SQL_XLS\CEMS_WS\CEMS_WS\bin\Microsoft.Practices.Unity.Interception.pdb
+E:\Env_SQL_XLS\CEMS_WS\CEMS_WS\obj\Debug\CEMS_WS.dll
+E:\Env_SQL_XLS\CEMS_WS\CEMS_WS\obj\Debug\CEMS_WS.pdb
+E:\Env_SQL_XLS\remote_websvc\CEMS_WS_20150215\CEMS_WS\bin\CEMS_WS.dll
+E:\Env_SQL_XLS\remote_websvc\CEMS_WS_20150215\CEMS_WS\bin\CEMS_WS.pdb
+E:\Env_SQL_XLS\remote_websvc\CEMS_WS_20150215\CEMS_WS\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\Env_SQL_XLS\remote_websvc\CEMS_WS_20150215\CEMS_WS\bin\Microsoft.Practices.EnterpriseLibrary.Configuration.EnvironmentalOverrides.dll
+E:\Env_SQL_XLS\remote_websvc\CEMS_WS_20150215\CEMS_WS\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\Env_SQL_XLS\remote_websvc\CEMS_WS_20150215\CEMS_WS\bin\Microsoft.Practices.Unity.dll
+E:\Env_SQL_XLS\remote_websvc\CEMS_WS_20150215\CEMS_WS\bin\Microsoft.Practices.ServiceLocation.dll
+E:\Env_SQL_XLS\remote_websvc\CEMS_WS_20150215\CEMS_WS\bin\Microsoft.Practices.Unity.Interception.dll
+E:\Env_SQL_XLS\remote_websvc\CEMS_WS_20150215\CEMS_WS\bin\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+E:\Env_SQL_XLS\remote_websvc\CEMS_WS_20150215\CEMS_WS\bin\Microsoft.Practices.EnterpriseLibrary.Common.xml
+E:\Env_SQL_XLS\remote_websvc\CEMS_WS_20150215\CEMS_WS\bin\Microsoft.Practices.EnterpriseLibrary.Configuration.EnvironmentalOverrides.pdb
+E:\Env_SQL_XLS\remote_websvc\CEMS_WS_20150215\CEMS_WS\bin\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+E:\Env_SQL_XLS\remote_websvc\CEMS_WS_20150215\CEMS_WS\bin\Microsoft.Practices.EnterpriseLibrary.Data.xml
+E:\Env_SQL_XLS\remote_websvc\CEMS_WS_20150215\CEMS_WS\bin\Microsoft.Practices.Unity.pdb
+E:\Env_SQL_XLS\remote_websvc\CEMS_WS_20150215\CEMS_WS\bin\Microsoft.Practices.ServiceLocation.pdb
+E:\Env_SQL_XLS\remote_websvc\CEMS_WS_20150215\CEMS_WS\bin\Microsoft.Practices.Unity.Interception.pdb
+E:\Env_SQL_XLS\remote_websvc\CEMS_WS_20150215\CEMS_WS\obj\Debug\CEMS_WS.dll
+E:\Env_SQL_XLS\remote_websvc\CEMS_WS_20150215\CEMS_WS\obj\Debug\CEMS_WS.pdb
